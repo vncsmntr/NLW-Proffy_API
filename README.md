@@ -4,11 +4,11 @@ Projeto desevolvido junto com Diego Fernandes da @Rocketseat, com algumas mudan√
 
 ## Feito com
 
-* [Typescript]
-* [NodeJS]
-* [Express]
-* [Cors]
-* [Yarn]
+* Typescript
+* NodeJS
+* Express
+* Cors
+* Yarn
 
 ## Autores
 
@@ -16,4 +16,4 @@ Projeto desevolvido junto com Diego Fernandes da @Rocketseat, com algumas mudan√
 
 ## Outros
 
-Projeto feito para o meu desenvolvimento pessoal em NodeJS
+Projeto feito para o meu desenvolvimento pessoale profissional em NodeJS
